@@ -55,12 +55,14 @@ There are some **macro** ways to look at customer behavior as well. These also f
 ### Machine Learning for Predicting Customer Behavior
 
 Machine learning plays a crucial role in predictive analytics. Various models can be employed to analyze customer data and predict future behavior:
+<br>
 | Model Type             | Description                                                                                    | Example Use Case                                                                                                  |
 |------------------------|------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
 | Classification Models  | Categorize customers into different segments based on their characteristics and predicted behavior. | Predicting customer churn (whether a customer is likely to stop using a service or product).                      |
 | Regression Models      | Predict continuous values, such as customer lifetime value or the likelihood of a specific action.  | Predicting the probability of a customer making a purchase or the expected revenue from a customer.              |
 | Clustering Models      | Group customers with similar behaviors and characteristics.                                       | Segmenting customers into distinct groups based on their purchase history or online browsing behavior to enable targeted marketing campaigns. |
 
+<br>
 A specific application of classification models is `propensity modeling` . This technique predicts the likelihood of a customer taking a specific action, such as making a purchase, clicking on an ad, or responding to an email campaign. By understanding customer propensities, businesses can optimize their marketing efforts and target the right customers with the right message at the right time.   
 
 **Selecting and Implementing a Machine Learning Model**
@@ -145,6 +147,7 @@ By implementing these strategies, Coursera demonstrates how predictive analytics
 **`Case Study: Customer Segmentation for Personalizing Email Campaign`**
 
 `Part 1: Implementing a Predictive Customer-Segmentation Model`
+<br>
 | **Step**                         | **Actions**                                                                                                                                                                                                                   | **Deliverables**                                             |
 |----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
 | 1. **Data Collection**           | - Gather relevant data from CRM, transactional systems, website analytics, and demographic sources.<br>- Ensure you have enough data to capture meaningful insights (e.g., purchase history, engagement history).                                                    | - Unified customer dataset<br>- Initial data inventory       |
@@ -156,6 +159,7 @@ By implementing these strategies, Coursera demonstrates how predictive analytics
 | 7. **Implementation & Integration** | - Assign each customer a segment label in your CRM or marketing automation system.<br>- Integrate segmentation labels so they can be used to personalize email content and frequency.                                                                           | - Customer segment tags<br>- Integration in marketing systems  |
 
 `Part 2: Measuring Success and Ongoing Optimization`
+<br>
 | **Measurement Step**             | **Actions**                                                                                                                                                                                            | **Key Metrics & Outputs**                                                      |
 |----------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|
 | 1. **Define Success Metrics**    | - Identify clear KPIs such as open rate, click-through rate (CTR), conversion rate, and revenue per email.<br>- Decide on secondary metrics like unsubscribes, email engagement over time, and average order value.                           | - Set baseline metrics for comparison                                         |
