@@ -58,15 +58,13 @@ There are some **macro** ways to look at customer behavior as well. These also f
 
 ### Machine Learning for Predicting Customer Behavior
 
-Machine learning plays a crucial role in predictive analytics. Various models can be employed to analyze customer data and predict future behavior:
-<br>
+Machine learning plays a crucial role in predictive analytics. Various models can be employed to analyze customer data and predict future behavior:<br>
 | Model Type             | Description                                                                                    | Example Use Case                                                                                                  |
 |------------------------|------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
 | Classification Models  | Categorize customers into different segments based on their characteristics and predicted behavior. | Predicting customer churn (whether a customer is likely to stop using a service or product).                      |
 | Regression Models      | Predict continuous values, such as customer lifetime value or the likelihood of a specific action.  | Predicting the probability of a customer making a purchase or the expected revenue from a customer.              |
 | Clustering Models      | Group customers with similar behaviors and characteristics.                                       | Segmenting customers into distinct groups based on their purchase history or online browsing behavior to enable targeted marketing campaigns. |
 
-<br>
 A specific application of classification models is `propensity modeling` . This technique predicts the likelihood of a customer taking a specific action, such as making a purchase, clicking on an ad, or responding to an email campaign. By understanding customer propensities, businesses can optimize their marketing efforts and target the right customers with the right message at the right time.   
 
 **Selecting and Implementing a Machine Learning Model**
